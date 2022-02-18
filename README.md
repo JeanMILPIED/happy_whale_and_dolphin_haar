@@ -53,6 +53,8 @@ else:
 ```  
 
 #### Results examples  
-![example1](https://myoctocat.com/assets/images/base-octocat.svg)
-![example2](https://myoctocat.com/assets/images/base-octocat.svg)
+![example1](https://github.com/JeanMILPIED/happy_whale_and_dolphin_haar/blob/main/Images/image_1.PNG)  
+![example2](https://github.com/JeanMILPIED/happy_whale_and_dolphin_haar/blob/main/Images/image_2.PNG)  
 
+#### Link to the .xml haar-cascade fin detector  
+you can download the filter from this link: 
