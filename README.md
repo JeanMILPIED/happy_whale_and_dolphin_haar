@@ -57,4 +57,5 @@ else:
 ![example2](https://github.com/JeanMILPIED/happy_whale_and_dolphin_haar/blob/main/Images/image_2.PNG)  
 
 #### Link to the .xml haar-cascade fin detector  
-you can download the filter from this link: 
+you can download the filter from this link:  
+[cascade-fins2] (https://)
