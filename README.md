@@ -50,5 +50,9 @@ if len(faces)!=0:
     print('fin_size = {}%'.format(np.round(w*h/(resized_rot_f.shape[0]*resized_rot_f.shape[1])*100,1)))
 else:
     print('no fin detected')
-```
+```  
+
+#### Results examples  
+![example1](https://myoctocat.com/assets/images/base-octocat.svg)
+![example2](https://myoctocat.com/assets/images/base-octocat.svg)
 
