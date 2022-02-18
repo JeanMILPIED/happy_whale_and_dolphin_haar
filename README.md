@@ -11,7 +11,7 @@ I followed this excellent article to use the proper tools to train a haar cascad
 #### Code  
 to use the haar cascade filter, you can follow this script:  
 
-'''  
+```
 #here is code to check the output
 face_cascade=cv2.CascadeClassifier(r"<your_folder_here>\happy-whale-and-dolphin\haar_cascade\cascade_fins2.xml")###path of cascade file
 ## following is an test image u can take any image from the p folder in the temp folder and paste address of it on below line 
@@ -50,5 +50,5 @@ if len(faces)!=0:
     print('fin_size = {}%'.format(np.round(w*h/(resized_rot_f.shape[0]*resized_rot_f.shape[1])*100,1)))
 else:
     print('no fin detected')
-'''
+```
 
